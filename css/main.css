@@ -1,0 +1,31 @@
+html {
+background-color: pink;	
+}
+body {
+background-color: aquamarine;
+width: 90%;
+margin: 0 auto;
+}
+.wrapper {
+background-color: aqua;
+width: 90%;
+margin: 0 auto;
+}
+.wrapper ol {
+background-color: red;
+width: 95%;
+margin: 0 auto;
+text-align: center;	
+}
+/* cant see the difference between ol and the li's it contains */
+.wrapper ol li {
+padding: 0.5em
+}
+.wrapper h1 {
+background-color: yellow;
+width: 90%;
+margin: auto;
+text-align: center;	
+padding: 0.5em;	
+}
+/* up to this point all these elements have been block elements */
